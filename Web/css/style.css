@@ -1,0 +1,42 @@
+.credenciais{
+    width: 92%;
+    height: 30px;
+    display: block;
+    padding: 0px 5px 0px 15px;
+    margin: 0px 0px 10px 0px;
+    border: 1px solid #CCC;
+    border-bottom: 2px solid #333;
+}
+
+.btn{
+    width: 80px;
+    height: 30px;
+    background: #a00808;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    float: right;
+}
+
+.btn:hover{
+    background: #ff0000;
+}
+
+.titulo{
+    font-size: 20px;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #a00808;
+    text-align: center;
+}
+
+#login{
+    width: 22%;
+    height: 250px;
+    background: #FFFFFF;
+    padding: 10px 20px;
+    border-radius: 5px;
+    position: absolute;
+    top: 20%;
+    left: 39%;
+}
